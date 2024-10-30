@@ -1,8 +1,9 @@
 import React from "react";
+import Sidebar from "@/components/sidebar/sidebar";
 export default function Home() {
   return (
     <div className="w-full flex justify-center items-center">
-      <h1 className="text-3xl font-bold">Bayraa pizda</h1>
+      <Sidebar />
     </div>
   );
 }
