@@ -1,11 +1,11 @@
 import React from "react";
 
-function Users() {
+function Sambar() {
   return (
     <div>
-      <h1>Users</h1>
+      <h1>Sambar</h1>
     </div>
   );
 }
 
-export default Users;
+export default Sambar;
